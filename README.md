@@ -158,6 +158,7 @@ https://privacyweek.at/
 26.10.-01.11.2020, Online, ::1, Earth, Milky Way  
 
 #### Talk: [Security Fuckups. Version 2020](https://media.ccc.de/v/pw20-368-security-fuckups-version-2020)
+#### Talk: [Der Popcorn Talk](https://media.ccc.de/v/pw20-398-der-popcorn-talk)
 
 --------------------
 
