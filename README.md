@@ -270,7 +270,7 @@ https://2k17.balccon.org/
 --------------------
 
 ### FSec 2017 - Security Sumposium
-https://fsec.foi.hr/
+https://fsec.foi.hr  
 07.-08.09.2017, HNK, Varaždin, Croatia, Earth, Milky Way  
 #### Talk: [Ransomware: Data(EN)cryption Made Easy](https://www.youtube.com/watch?v=BKYAWqJFUkk)
 
