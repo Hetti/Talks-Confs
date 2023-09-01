@@ -12,7 +12,7 @@ https://itsecx.fhstp.ac.at/en/program-2023
 --------------------
 
 ### OSCAL 2023 (Open Source Conference Albania)
-https://oscal.openlabs.cc/  
+https://oscal.openlabs.cc  
 02.-03.09.2023, The Embassy of Peace | Ambasada e Paqes, Tirana, Albania, Earth, Milky Way  
 #### Workshop: [Supervised hacking - Senior and the Junior crew](https://cfp.openlabs.cc/oscal2023/talk/LCAVFV/)
 
@@ -32,7 +32,7 @@ https://camp.hsbp.org/2023/pp7e7/
 --------------------
 
 ### BSides Ljubljana 0x7E7
-https://0x7e7.bsidesljubljana.si/  
+https://0x7e7.bsidesljubljana.si  
 16.09.2023, Slovenian Computer History Museum, Ljubljana, Slovenia, Earth, Milky Way  
 
 #### Workshop: [Supervised hacking - Senior and the Junior crew](https://0x7e7.bsidesljubljana.si/workshop-supervised-hacking-senior-and-the-junior-crew-petar-hetti-kosic/)
@@ -54,10 +54,18 @@ https://events.ccc.de/category/camp-2023/
 --------------------
 
 ### Hackerhotel 2023
-https://hackerhotel.nl/  
+https://hackerhotel.nl  
 10.-12.02.2023, Westcord Hotel De Veluwe, Garderen, Netherlands, Earth, Milky Way  
 
 ## 2022
+
+### Fireshonks
+https://events.haecksen.org/fireshonks/  
+27.-30.12.2020, Online, ::1, Earth, Milky Way  
+
+#### Workshop: [Betreutes Hacken - Senior und die Juniorcrew](https://pretalx.c3voc.de/fire-shonks-2022/talk/TGCYWB/) | [Hacking Schummelzettel](https://github.com/Hetti/Hacking-Schummelzettel)
+
+--------------------
 
 ### BSides Vienna
 https://bsidesvienna.at/archive/2022/  
@@ -65,9 +73,9 @@ https://bsidesvienna.at/archive/2022/
 
 --------------------
 
-### DeepSec 2022
+### DeepSec 2022 - Doors & Corners
 https://deepsec.net/archive/2022.deepsec.net/  
-18-19.11.2022, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way  
+18.-19.11.2022, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way  
 
 --------------------
 
@@ -93,9 +101,9 @@ https://bsidesvarazdin.org
 
 --------------------
 
-### VVoidCamp 2022
-https://www.vvoid.camp/  
-18-21.08.2022, Zeltplatz Messerschmidmühle, Perlesreut, Germany, Earth, Milky Way  
+### VVoid Camp 2022
+https://www.vvoid.camp  
+18.-21.08.2022, Zeltplatz Messerschmidmühle, Perlesreut, Germany, Earth, Milky Way  
 
 --------------------
 
@@ -113,17 +121,67 @@ https://www.its-now.science/?review2022
 
 ## 2021
 
+### rC3 nowhere - Remote Chaos Experience
+https://links.rc3.world/2021/  
+27.-30.12.2021, Online, ::1, Earth, Milky Way  
+
+#### Talk: [Security Safari in b0rken Land - 2021 Edition](https://media.ccc.de/v/rc3-2021-haecksen-259-security-safari-in)
+
+--------------------
+
 ### DeepSec 2021
 https://deepsec.net/archive/2021.deepsec.net/deepsec.net/index.html  
 17-18.11.2021, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way  
 
+--------------------
+
+### Privacyweek 2021 - Datenmeer
+https://privacyweek.at/  
+25.-31.10.2021, Online, ::1, Earth, Milky Way  
+
+--------------------
+
+### VVoid Camp 2021
+https://www.vvoid.camp/  
+26.-29.08.2021, Zeltplatz Messerschmidmühle, Perlesreut, Germany, Earth, Milky Way  
+
 ## 2020
 
-### DeepSec 2020
+### DeepSec 2020 - The Masquerade
 https://deepsec.net/archive/2020.deepsec.net/  
-19-20.11.2020, Online, ::1, Earth, Milky Way  
+19.-20.11.2020, Online, ::1, Earth, Milky Way  
+
+--------------------
+
+### Privacyweek 2020 - SYSTEM = ! + relevant?
+https://privacyweek.at/  
+26.10.-01.11.2020, Online, ::1, Earth, Milky Way  
+
+#### Talk: [Security Fuckups. Version 2020](https://media.ccc.de/v/pw20-368-security-fuckups-version-2020)
+
+--------------------
+
+### Disobey 2020
+https://disobey.fi/2020/  
+14.-15.02.2020, Kaapelitehdas, Helsinki, Finland, Earth, Milky Way  
+
+#### Talk: [Security Expedition in b0rkenland - IT is still burning hard - Version 2019](https://www.youtube.com/watch?v=aw56pHrj4Jk)
 
 ## 2019
+
+### DeepSec 2019 - Internet of Facts and Fears
+https://deepsec.net/archive/2019.deepsec.net/deepsec.net/index.html  
+29.-30.11.2018, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way 
+
+--------------------
+
+### Privacyweek 2019 - Privat Oida
+https://privacyweek.at/  
+21.-27.10.2019, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way 
+
+#### Talk: [Schneller, Sauberer und Privater im Netz - Browser und Addons für ein besseres Interneterlebnis ](https://media.ccc.de/v/pw19-273-schneller-sauberer-und-privater-im-netz-browser-und-addons-fr-ein-besseres-interneterlebnis)
+
+--------------------
 
 ### BSides Varaźdin 2019
 https://bsidesvarazdin.org  
@@ -139,6 +197,28 @@ https://2k19.balccon.org/
 
 ## 2018
 
+### 35th Chaos Communication Congress (35C3) - Refreshing Memories
+https://events.ccc.de/congress/2018/wiki/index.php/Main_Page  
+27.-30.12.2018, Leipziger Messe, Leipzig, Germany, Earth, Milky Way  
+
+#### Talk: [Security Expedition in b0rkenLand - Watch out! There are dangerous Security Problems](https://media.ccc.de/v/35c3chaoswest-59-security-expedition-in-b0rkenland-watch-out-there-are-dangerous-security-problems)
+
+--------------------
+
+### DeepSec 2018 - I like to mov &6974,%bx
+https://deepsec.net/archive/2018.deepsec.net/index.html  
+29.-30.11.2018, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way  
+
+--------------------
+
+### Privacyweek 2018 - Generationen
+https://privacyweek.at/  
+22.-28.10.2018, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way  
+
+#### Talk: [Security Safari in b0rkenland - Version 2018](https://media.ccc.de/v/pw18-35-security-safari-in-b0rkenland)
+
+--------------------
+
 ### BalCCon 2k18 - Find Yourself
 https://2k18.balccon.org/  
 14.-16.09.2018, Novi Sad Fair - Congress Centre, Novi Sad, Serbia, Earth, Milky Way
@@ -146,6 +226,24 @@ https://2k18.balccon.org/
 #### Talk: [Security Safari in b0rkenland - Version 2018](https://www.youtube.com/watch?v=vm-jkacAC74)
 
 ## 2017
+
+### 34th Chaos Communication Congress (34C3) - tuwat
+https://events.ccc.de/congress/2017/wiki/index.php/Main_Page  
+27.-30.12.2017, Leipziger Messe, Leipzig, Germany, Earth, Milky Way  
+
+--------------------
+
+### DeepSec 2017 - Science First!
+https://deepsec.net/archive/2017.deepsec.net/index.html  
+16.-17.11.2017, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way  
+
+--------------------
+
+### Privacyweek 2017 - Datenspuren
+https://privacyweek.at/  
+23.-29.10.2017, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way  
+
+--------------------
 
 ### BalCCon 2k17 - U CNT CTRL ME
 https://2k17.balccon.org/  
@@ -156,6 +254,18 @@ https://2k17.balccon.org/
 
 ## 2016
 
+### 33rd Chaos Communication Congress (33C3) - Works for me 
+https://events.ccc.de/congress/2016/wiki/Main_Page  
+27.-30.12.2016, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
+
+--------------------
+
+### Privacyweek 2016
+https://privacyweek.at/  
+24.10.-30.10.2016, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way  
+
+--------------------
+
 ### BalCCon 2k16 - Time is an Illusion
 https://2k16.balccon.org/  
 09.-11.09.2016, Novi Sad Fair - Congress Centre, Novi Sad, Serbia, Earth, Milky Way
@@ -164,6 +274,16 @@ https://2k16.balccon.org/
 
 ## 2015
 
+### 32nd Chaos Communication Congress (32C3) - Gated Communities
+https://events.ccc.de/congress/2015/wiki/Main_Page  
+27.-30.12.2015, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
+
 ### BalCCon 2k15 - Third Time's a Charm
 https://2k15.balccon.org/  
 11.-13.09.2015, The Museum of Contemporary Art, Novi Sad, Serbia, Earth, Milky Way
+
+## 2014
+
+### 31th Chaos Communication Congress (31C3) - A New Dawn
+https://events.ccc.de/congress/2014/wiki/Main_Page  
+27.-30.12.2014, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
