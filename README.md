@@ -225,6 +225,20 @@ https://2k18.balccon.org/
 
 #### Talk: [Security Safari in b0rkenland - Version 2018](https://www.youtube.com/watch?v=vm-jkacAC74)
 
+--------------------
+
+### FSec IoT Hacking Summer School
+https://hack.foi.hr/  
+16.-22.07.2018, HNK, Varaždin, Croatia, Earth, Milky Way  
+
+#### Talk: Security Safari in b0rkenland - Version 2018
+
+--------------------
+
+### TROOPERS18
+https://troopers.de/troopers18/  
+12.-16.03.2017, Print Media Academy, Heidelberg, Germany, Earth, Milky Way  
+
 ## 2017
 
 ### 34th Chaos Communication Congress (34C3) - tuwat
@@ -249,8 +263,21 @@ https://privacyweek.at/
 https://2k17.balccon.org/  
 15.-17.09.2017, Novi Sad Fair - Congress Centre, Novi Sad, Serbia, Earth, Milky Way
 
-#### Talk: [Ransomware: Data Encryption made easy](https://www.youtube.com/watch?v=GFM7FHrTpJE)
+#### Talk: [Ransomware: Data(EN)cryption Made Easy](https://www.youtube.com/watch?v=GFM7FHrTpJE)
 #### Workshop: [SSH From Zero to Hero workshop](https://www.youtube.com/watch?v=VXgBYDzHBL4)
+
+--------------------
+
+### FSec 2017 - Security Sumposium
+https://fsec.foi.hr/
+07.-08.09.2017, HNK, Varaždin, Croatia, Earth, Milky Way  
+#### Talk: [Ransomware: Data(EN)cryption Made Easy](https://www.youtube.com/watch?v=BKYAWqJFUkk)
+
+--------------------
+
+### TROOPERS17
+https://troopers.de/troopers17/  
+20.-24.03.2017, Print Media Academy, Heidelberg, Germany, Earth, Milky Way  
 
 ## 2016
 
