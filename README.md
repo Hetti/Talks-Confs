@@ -67,13 +67,13 @@ https://events.haecksen.org/fireshonks/
 
 --------------------
 
-### BSides Vienna
+### BSidesVienna 7E6
 https://bsidesvienna.at/archive/2022/  
 19.11.2022, Urania Dachsaal, Vienna, Austria, Earth, Milky Way  
 
 --------------------
 
-### DeepSec 2022 - Doors & Corners
+### DeepSec 2022 - Once Upon A Time
 https://deepsec.net/archive/2022.deepsec.net/  
 18.-19.11.2022, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way  
 
@@ -95,7 +95,7 @@ https://2k22.balccon.org/index.php
 
 --------------------
 
-### BSides Varaźdin 2022
+### BSides Varaždin 2022
 https://bsidesvarazdin.org  
 16.09.2022, Park Boutique Hotel, Varaždin, Croatia, Earth, Milky Way  
 
@@ -129,9 +129,9 @@ https://links.rc3.world/2021/
 
 --------------------
 
-### DeepSec 2021
+### DeepSec 2021 - Doors & Corners
 https://deepsec.net/archive/2021.deepsec.net/deepsec.net/index.html  
-17-18.11.2021, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way  
+17.-18.11.2021, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way  
 
 --------------------
 
@@ -170,9 +170,13 @@ https://disobey.fi/2020/
 
 ## 2019
 
+### BsidesVienna 0x7E3
+https://bsidesvienna.at/archive/2019/  
+30.11.2019, Urania Dachsaal, Vienna, Austria, Earth, Milky Way  
+
 ### DeepSec 2019 - Internet of Facts and Fears
 https://deepsec.net/archive/2019.deepsec.net/deepsec.net/index.html  
-29.-30.11.2018, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way 
+28.-29.11.2018, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way 
 
 --------------------
 
@@ -184,7 +188,7 @@ https://privacyweek.at/
 
 --------------------
 
-### BSides Varaźdin 2019
+### BSides Varaždin 2019
 https://bsidesvarazdin.org  
 18.09.2019, Park Boutique Hotel, Varaždin, Croatia, Earth, Milky Way  
 
@@ -272,6 +276,7 @@ https://2k17.balccon.org/
 ### FSec 2017 - Security Sumposium
 https://fsec.foi.hr  
 07.-08.09.2017, HNK, Varaždin, Croatia, Earth, Milky Way  
+
 #### Talk: [Ransomware: Data(EN)cryption Made Easy](https://www.youtube.com/watch?v=BKYAWqJFUkk)
 
 --------------------
@@ -290,7 +295,7 @@ https://events.ccc.de/congress/2016/wiki/Main_Page
 
 ### Privacyweek 2016
 https://privacyweek.at/  
-24.10.-30.10.2016, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way  
+24.-30.10.2016, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way  
 
 --------------------
 
@@ -306,6 +311,14 @@ https://2k16.balccon.org/
 https://events.ccc.de/congress/2015/wiki/Main_Page  
 27.-30.12.2015, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
 
+--------------------
+
+### BsidesVienna 7DF
+https://bsidesvienna.at/archive/2015/  
+21.11.2015, Neues Intitutsgebäude (NIG), Vienna, Austria, Earth, Milky Way  
+
+--------------------
+
 ### BalCCon 2k15 - Third Time's a Charm
 https://2k15.balccon.org/  
 11.-13.09.2015, The Museum of Contemporary Art, Novi Sad, Serbia, Earth, Milky Way
@@ -315,3 +328,9 @@ https://2k15.balccon.org/
 ### 31th Chaos Communication Congress (31C3) - A New Dawn
 https://events.ccc.de/congress/2014/wiki/Main_Page  
 27.-30.12.2014, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
+
+--------------------
+
+### BsidesVienna 7DE
+https://bsidesvienna.at/archive/2014/  
+22.11.2014, Topkino, Vienna, Austria, Earth, Milky Way  
