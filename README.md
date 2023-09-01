@@ -1,5 +1,6 @@
 # Talks & Confs
-An overview about my visited Conferences and my public speaking engagements. No warranty for completeness
+An overview about my visited Conferences and my public speaking engagements.  
+No warranty for completeness
 
 
 ## 2023
@@ -325,7 +326,7 @@ https://2k15.balccon.org/
 
 ## 2014
 
-### 31th Chaos Communication Congress (31C3) - A New Dawn
+### 31st Chaos Communication Congress (31C3) - A New Dawn
 https://events.ccc.de/congress/2014/wiki/Main_Page  
 27.-30.12.2014, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
 
