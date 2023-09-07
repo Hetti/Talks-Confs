@@ -18,6 +18,12 @@ https://2k23.balccon.org
 
 --------------------
 
+### BSides Osijek 2023
+https://www.bsidesosijek.org/  
+06.09.2023, Cinema Urania, Osijek, Croatia, Earth, Milky Way  
+
+--------------------
+
 ### OSCAL 2023 (Open Source Conference Albania)
 https://oscal.openlabs.cc  
 02.-03.09.2023, The Embassy of Peace | Ambasada e Paqes, Tirana, Albania, Earth, Milky Way  
