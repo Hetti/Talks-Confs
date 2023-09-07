@@ -12,6 +12,12 @@ https://itsecx.fhstp.ac.at/en/program-2023
 
 --------------------
 
+### BalCCon 2k23 - System Failure
+https://2k23.balccon.org  
+08.-10.09.2023, Novi Sad Fair - Congress Centre, Novi Sad, Serbia, Earth, Milky Way
+
+--------------------
+
 ### OSCAL 2023 (Open Source Conference Albania)
 https://oscal.openlabs.cc  
 02.-03.09.2023, The Embassy of Peace | Ambasada e Paqes, Tirana, Albania, Earth, Milky Way  
@@ -175,9 +181,11 @@ https://disobey.fi/2020/
 https://bsidesvienna.at/archive/2019/  
 30.11.2019, Urania Dachsaal, Vienna, Austria, Earth, Milky Way  
 
+--------------------
+
 ### DeepSec 2019 - Internet of Facts and Fears
 https://deepsec.net/archive/2019.deepsec.net/deepsec.net/index.html  
-28.-29.11.2018, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way 
+28.-29.11.2019, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way 
 
 --------------------
 
@@ -200,6 +208,18 @@ https://2k19.balccon.org/
 13.-15.09.2019, Novi Sad Fair - Congress Centre, Novi Sad, Serbia, Earth, Milky Way
 
 #### CTF: [Intro BalCCon Beginner CTF](https://www.youtube.com/watch?v=BRyrvPhU96o) | Organized the BalCCon Beginner CTF
+
+--------------------
+
+### Overdrive Conference
+https://overdriveconference.com/  
+25.-27.04.2019, Montilivi Campus, Girona, Spain, Earth, Milky Way
+
+--------------------
+
+### Easterhegg 19 - bun intended
+https://eh19.easterhegg.eu  
+19.-22.04.2019, TU Wien, Vienna, Austria, Earth, Milky Way
 
 ## 2018
 
@@ -305,6 +325,19 @@ https://2k16.balccon.org/
 09.-11.09.2016, Novi Sad Fair - Congress Centre, Novi Sad, Serbia, Earth, Milky Way
 
 #### Talk: [How to NOT run a hackspace](https://www.youtube.com/watch?v=mHe6PSOZsD4)
+
+--------------------
+
+### Easterhegg 16 - Hackfestspiele in Salzburg
+https://eh16.easterhegg.eu   
+25.-28.03.2016, ARGE Kultur, Salzburg, Austria, Earth, Milky Way
+
+--------------------
+
+### SECURI-TAY V
+https://2016.securi-tay.co.uk/  
+26.-27.02.2016, Abertay University, Dundee, Scotland, Earth, Milky Way  
+
 
 ## 2015
 
