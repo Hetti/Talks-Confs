@@ -25,7 +25,7 @@ https://deepsec.net/archive/2023.deepsec.net/
 
 --------------------
 
-### ITSecX
+### ITSecX - Cloud Security
 https://itsecx.fhstp.ac.at/en/program-2023  
 13.10.2023, UAS, St. Pölten, Austria, Earth, Milky Way  
 #### Talk: unexpected coffee - a dive into industrial coffee machines
@@ -205,19 +205,25 @@ https://disobey.fi/2020/
 
 ### BsidesVienna 0x7E3
 https://bsidesvienna.at/archive/2019/  
-30.11.2019, Urania Dachsaal, Vienna, Austria, Earth, Milky Way  
+30.11.2019, Urania Dachsaal, Vienna, Austria, Earth, Milky Way
 
 --------------------
 
 ### DeepSec 2019 - Internet of Facts and Fears
 https://deepsec.net/archive/2019.deepsec.net/deepsec.net/index.html  
-28.-29.11.2019, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way 
+28.-29.11.2019, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way
+
+--------------------
+
+### IT-SECX - Resilient Software – From Threat Modeling to Penetration Testing
+https://itsecx.fhstp.ac.at/archiv/it-secx-2019  
+08.11.2023, UAS, St. Pölten, Austria, Earth, Milky Way
 
 --------------------
 
 ### Privacyweek 2019 - Privat Oida
 https://privacyweek.at/  
-21.-27.10.2019, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way 
+21.-27.10.2019, Volkskundemuseum Wien, Vienna, Austria, Earth, Milky Way
 
 #### Talk: [Schneller, Sauberer und Privater im Netz - Browser und Addons für ein besseres Interneterlebnis ](https://media.ccc.de/v/pw19-273-schneller-sauberer-und-privater-im-netz-browser-und-addons-fr-ein-besseres-interneterlebnis)
 
