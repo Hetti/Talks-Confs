@@ -25,7 +25,7 @@ https://deepsec.net/archive/2023.deepsec.net/
 
 --------------------
 
-### ITSecX - Cloud Security
+### IT-SECX - Cloud Security
 https://itsecx.fhstp.ac.at/en/program-2023  
 13.10.2023, UAS, St. Pölten, Austria, Earth, Milky Way  
 #### Talk: unexpected coffee - a dive into industrial coffee machines
