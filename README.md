@@ -217,7 +217,7 @@ https://deepsec.net/archive/2019.deepsec.net/deepsec.net/index.html
 
 ### IT-SECX - Resilient Software – From Threat Modeling to Penetration Testing
 https://itsecx.fhstp.ac.at/archiv/it-secx-2019  
-08.11.2023, UAS, St. Pölten, Austria, Earth, Milky Way
+08.11.2019, UAS, St. Pölten, Austria, Earth, Milky Way
 
 --------------------
 
@@ -266,6 +266,12 @@ https://events.ccc.de/congress/2018/wiki/index.php/Main_Page
 ### DeepSec 2018 - I like to mov &6974,%bx
 https://deepsec.net/archive/2018.deepsec.net/index.html  
 29.-30.11.2018, The Imperial Riding School Vienna, Vienna, Austria, Earth, Milky Way  
+
+--------------------
+
+### IT-SECX - Secure Digitization – Securing the Smart Factory of the Future
+https://itsecx.fhstp.ac.at/archiv/it-secx-2018  
+16.11.2018, UAS, St. Pölten, Austria, Earth, Milky Way
 
 --------------------
 
