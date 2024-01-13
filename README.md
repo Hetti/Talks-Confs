@@ -2,8 +2,28 @@
 An overview about my visited Conferences and my public speaking engagements.  
 No warranty for completeness
 
+## 2024
+
+### Disobey 2024 - Don’t believe the hype
+https://disobey.fi/2024/  
+16.-17.02.2024, Kaapelitehdas, Helsinki, Finland, Earth, Milky Way  
+
+#### Workshop: Supervised hacking - Senior and the Junior crew
+
 
 ## 2023
+
+### 37th Chaos Communication Congress (37C3) - Unlocked
+https://events.ccc.de/congress/2023/wiki/Main_Page  
+27.-30.12.2014, Congress Center Hamburg (CCH), Hamburg, Germany, Earth, Milky Way  
+
+--------------------
+
+### DeepSec 2023 - Do AIs Dream of Voight-Kampff Tests?
+https://deepsec.net/archive/2023.deepsec.net/  
+16.-17.11.2023, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way
+
+--------------------
 
 ### ITSecX
 https://itsecx.fhstp.ac.at/en/program-2023  
