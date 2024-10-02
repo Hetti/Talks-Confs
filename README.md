@@ -19,6 +19,12 @@ https://events.ccc.de/congress/2023/wiki/Main_Page
 
 --------------------
 
+### BSidesVienna 7E7
+https://bsidesvienna.at/archive/2023/  
+18.11.2023, Badeschiff Wien, Vienna, Austria, Earth, Milky Way  
+
+--------------------
+
 ### DeepSec 2023 - Do AIs Dream of Voight-Kampff Tests?
 https://deepsec.net/archive/2023.deepsec.net/  
 16.-17.11.2023, Renaissance Wien Hotel, Vienna, Austria, Earth, Milky Way
